@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a second year Mathematics and Physics undergraduate based in the U.K.
+I am a third year Mathematics and Physics undergraduate based in the U.K.
 
 I have heavy scientific interests in quantum mechanics, simulations and molecular dynamics.
 
@@ -8,7 +8,7 @@ Other interests include:
 - NixOS, Fedora, Void
 - Frontend Web Development
 
-
+Learn more: [https://chungxu.dev](https://chungxu.dev)
 <!--
 **chpxu/chpxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
