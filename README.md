@@ -1,11 +1,18 @@
-### Hello there 👋
-I am a third year Mathematics and Physics undergraduate based in the U.K.
+# Hello there 👋
+I am a third year Mathematics and Physics undergraduate based in the U.K. Codes in Python/C/TypeScript.
 
-I have heavy scientific interests in quantum mechanics, simulations and molecular dynamics.
+Other programming thingies:
+- Bash
+- (Learning) C++
+- Nix
 
-Other interests include:
-- Linux
-- NixOS, Fedora, Void
+I have heavy interests in quantum mechanics, particle physics, quantum computing, multiscale modelling and atomic simulations.
+
+Not only do I love Physics, but I love mathematics, and in particular abstract algebra.
+
+My other interests lie in technology and programming.
+
+- Linux: NixOS, Fedora, Void, Arch, Raspberry Pi.
 - Frontend Web Development
 
 Learn more: [https://chungxu.dev](https://chungxu.dev)
