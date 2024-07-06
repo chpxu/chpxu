@@ -21,7 +21,7 @@ Other programming thingies:
 - Linux: NixOS, Fedora, Void, Arch, Raspberry Pi.
 - Frontend Web Development
 
-![Chung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chpxu&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chpxu&layout=donut)](https://github.com/chpxu/github-readme-stats)
 
 Learn more: [https://chungxu.dev](https://chungxu.dev)
 <!--
