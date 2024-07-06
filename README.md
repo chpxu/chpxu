@@ -1,19 +1,27 @@
 # Hello there 👋
-I am a third year Mathematics and Physics undergraduate based in the U.K. Codes in Python/C/TypeScript.
+I am a third year Mathematics and Physics undergraduate based in the U.K who loves Physics, Maths and Linux.
+
+My favourite areas of physics are
+- Atomistic modelling, molecular dynamics and density functional theory.
+- Condensed matter, solid state physics 
+- Particle physics and fundamental structures of the universe.
+- Quantum computing theory.
+
+Within mathematics, I love abstract algebra and functional analysis.
+
+I have programmed in 
+- C
+- Python
+- TypeScript
 
 Other programming thingies:
 - Bash
-- (Learning) C++
 - Nix
-
-I have heavy interests in quantum mechanics, particle physics, quantum computing, multiscale modelling and atomic simulations.
-
-Not only do I love Physics, but I love mathematics, and in particular abstract algebra.
-
-My other interests lie in technology and programming.
-
+- (La)TeX
 - Linux: NixOS, Fedora, Void, Arch, Raspberry Pi.
 - Frontend Web Development
+
+![Chung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chpxu&show_icons=true)
 
 Learn more: [https://chungxu.dev](https://chungxu.dev)
 <!--
