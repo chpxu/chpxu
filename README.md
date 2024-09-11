@@ -19,7 +19,7 @@ Software used:
 - [exciting](https://exciting-code.org/)
 - [VASP](https://www.vasp.at/)
 - Python: NumPy, SciPy, matplotlib, jupyter, ASE, lxml, MACE
-- 
+ 
 Other programming thingies:
 - Bash
 - Nix
