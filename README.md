@@ -1,5 +1,5 @@
 # Hello there 👋
-I am a fourth year Mathematics and Physics undergraduate based in the U.K who loves Physics, Maths and Linux.
+I am a PhD candidate in Materials Modelling. I absolutely love Physics, mathematics, and anything to do with computers!
 
 My favourite areas of physics are
 - Atomistic modelling, molecular dynamics and density functional theory.
@@ -9,17 +9,20 @@ My favourite areas of physics are
 
 Within mathematics, I love abstract algebra and functional analysis.
 
-I have programmed in 
+Main programming languages:
 - C
 - Python
 - TypeScript
+- Fortran (learning)
 
-Software used:
+Materials Simulation Software used:
+- [quantumESPRESSO](https://www.quantum-espresso.org/)
+- [CONQUEST](https://github.com/OrderN/CONQUEST-release)
 - [LAMMPS](https://www.lammps.org/#gsc.tab=0)
 - [exciting](https://exciting-code.org/)
 - [VASP](https://www.vasp.at/)
-- Python: NumPy, SciPy, matplotlib, jupyter, ASE, lxml, MACE
- 
+- [MACE](https://github.com/ACEsuit/mace)
+
 Other programming thingies:
 - Bash
 - Nix
